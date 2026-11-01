@@ -1,0 +1,6 @@
+id,prediction,met
+P1,M1 quantitative ratio > 2 in both bins and median lambda > 1.3,True
+P2,M2 quantitative ratio > 1.25 (MAF >= 0.05),True
+P3,"M3 quantitative ratio in [0.8, 1.25], both bins",False
+P4,"K = 0.02, MAF 0.01-0.05: M2 outside [0.5, 2], M3 and M3s inside",pending (MSI)
+P5,"M3/M2 mean chi-square at large-effect SNPs in [0.95, 1.10] (observed 0.900)",False

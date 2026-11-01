@@ -1,0 +1,5 @@
+gene,chrom,start,end,ensembl_id,drug,role
+HMGCR,5,74632154,74657929,ENSG00000113161,statins,approved LDL target
+PCSK9,1,55505221,55530525,ENSG00000169174,alirocumab and evolocumab,approved LDL target
+NPC1L1,7,44552134,44580914,ENSG00000015520,ezetimibe,approved LDL target
+ANGPTL3,1,63063158,63071830,ENSG00000132855,evinacumab,approved for homozygous familial hypercholesterolemia
